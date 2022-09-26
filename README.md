@@ -10,10 +10,10 @@
 
 
 - 👍Hi,I’m Hardik Rathod
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Flutter Development
+- 🌱 I’m currently learning Flutter App Development
+- 📫 How to reach me 
+- 📞Mobile No. - +91 9427712415    or  📧Email :- Xo.hardik.rathod@gmail.com
 
 <!---
 hardikrathod003/hardikrathod003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
