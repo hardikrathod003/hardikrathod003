@@ -4,7 +4,6 @@
 
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">, I'm Hardik Rathod</h1>
 
-<a href="[https://www.cprogramming.com/](https://instagram.com/xo.hardik_rathod?igshid=OGQ5ZDc2ODk2ZA==)" target="_blank" rel="noreferrer"> <img src="![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)" alt="c" width="40" height="40"/> </a>
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 
 <h3 align="left">Languages and Tools That I Know:</h3>
